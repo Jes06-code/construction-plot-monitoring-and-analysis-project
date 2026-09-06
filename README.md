@@ -134,40 +134,6 @@ Frontend (React + Tailwind)
 
 ---
 
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/JeswanthKumar/Construction-Plot-Monitoring.git
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### Backend Setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-### Environment Configuration
-
-Configure:
-- Supabase URL
-- Supabase API Key
-- AI Service Configuration
-
-inside the environment configuration file.
-
----
 
 ## Project Outcome
 
